@@ -1,6 +1,6 @@
 # Family Travel Tracker
 
-## Description
+## Description 📙
 
 Family Travel Tracker is a web application that allows multiple users to create a personalized record of their journeys. 
 They can add family memebers with the prefered color to mark their visited countries.
